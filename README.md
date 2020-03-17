@@ -2,8 +2,8 @@
 compute readability of text
 
 How to install:
-python3 -m venv readability
-cd readability
+# python3 -m venv readability
+# cd readability
 source bin/activate
 git clone https://github.com/ReadabilityCH/readability.git
 cd readability
