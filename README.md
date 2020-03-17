@@ -13,5 +13,10 @@ How to install:
 How to use:
 -----------
 * go to python console: python
+* import nltk
+* nltk.download('punkt')
+* nltk.download('stopwords')
+* nltk.download('cmudict')
+* nltk.download('averaged_perceptron_tagger')
 * from .readability_nltk import get_redability_assessments
 * get_redability_assessments("text to check")
